@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients everyday from monday through friday.
-	           Landmark Technology Tesla web application project1.
+	           Landmark Technology Tesla web application project2.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
