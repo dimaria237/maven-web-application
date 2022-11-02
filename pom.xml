@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <urlhttp://172.31.76.21:600/repository/MavenNew-snapshot/</url>
+	      <url>http://172.31.76.21:600/repository/MavenNew-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
